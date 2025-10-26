@@ -12,7 +12,7 @@ export function Footer() {
           <FaFacebook className="text-base hover:text-blue-600" />
         </a>
         <a
-          href="https://github.com/akijacky"
+          href="https://github.com/akibio"
           target="_blank"
           rel="noopener noreferrer"
         >
